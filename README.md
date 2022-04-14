@@ -15,7 +15,7 @@ docker images
 
 - Удалить Docker образ
 ```
-docker rmi your-name-image
+docker rmi your-id-image
 ```
 
 - Собрать приложение из Docker image (контейнер)
